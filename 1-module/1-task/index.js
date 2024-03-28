@@ -4,7 +4,7 @@ function factorial(n) {
     for(let i = n; i > 1; i--) {
       result = result*i;
     }
-    }
+  }
   else {
     result = "число не должно быть отрицательным";
   }
